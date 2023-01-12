@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G56akEhfPy8W0eGtbscDrI0tQwPcDSC/FEaGKcoJSMVK+pL1kwmYmg1q5obJgpL5SRzAkzPQsoDNYMerm+9mGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darius\\source\\repos\\savarankiskas3Csharp\\Bankomatas\\Bankomatas\\Bankomatas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darius\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\Darius\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}
